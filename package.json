@@ -1,0 +1,23 @@
+{
+  "name": "GenerativeGame",
+  "version": "1.0.0",
+  "description": "Open Source WebUI for Accessible Deep Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archolic95/GenerativeGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archolic95/GenerativeGame/issues"
+  },
+  "homepage": "https://github.com/Archolic95/GenerativeGame#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
